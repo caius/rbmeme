@@ -1,0 +1,5 @@
+class Meme
+  def can_has_chezburger?: () -> String
+
+  def will_it_blend?: () -> String
+end
